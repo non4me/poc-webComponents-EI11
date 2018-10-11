@@ -1,0 +1,19 @@
+{
+  "name": "poc-web-components-ie11",
+  "version": "1.0.0",
+  "description": "Working examples WebComponent for IE11 (with webcomponents.js polyfills)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/non4me/poc-webComponents-EI11.git"
+  },
+  "author": "adapted by Vladimir Troyanenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/non4me/poc-webComponents-EI11/issues"
+  },
+  "homepage": "https://github.com/non4me/poc-webComponents-EI11#readme"
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--<script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/webcomponents-loader.js"></script>-->
+  <!--<script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.0.0/custom-elements-es5-adapter.js"></script>-->
+  <script src="polyfills/webcomponents-loader.js"></script>
+  <script src="polyfills/custom-elements-es5-adapter.js"></script>
+</head>
+<body>
+<miles-card miles='200'></miles-card>
+
+<hr>
+
+<div contenteditable="">
+  one two three
+</div>
+<word-count for="[contenteditable]"></word-count>
+
+<hr>
+
+<script src="./miles.js"></script>
+<script src="./word-counter.js"></script>
+</body>
+
+</html>
