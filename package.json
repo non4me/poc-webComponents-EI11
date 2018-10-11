@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/non4me/poc-webComponents-EI11/issues"
   },
-  "homepage": "https://github.com/non4me/poc-webComponents-EI11#readme"
+  "homepage": "https://github.com/non4me/poc-webComponents-EI11#readme",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.1.3"
+  }
 }
